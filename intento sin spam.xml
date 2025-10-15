@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Correo Corporativo REPROCAM</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+  <table width="100%" cellpadding="0" cellspacing="0" style="background-color: #f4f4f4; padding: 20px;">
+    <tr>
+      <td align="center">
+        <table width="600" cellpadding="0" cellspacing="0" style="background-color: #ffffff; border-radius: 8px; overflow: hidden;">
+          <!-- Encabezado con LOGO REAL -->
+          <tr>
+            <td style="background: linear-gradient(135deg, #00A3E0 0%, #2e7d32 100%); padding: 20px; text-align: center;">
+              <img src="https://www.canva.com/design/DAGwjUx-XcI/7Jew945cseCylUmn5HjRIQ/edit?utm_content=DAGwjUx-XcI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" alt="REPROCAM Logo" style="max-width: 300px; height: auto;">
+              <h1 style="color: #ffffff; font-size: 24px; margin: 10px 0;">REPROCAM - Soluciones en Reciclaje Aprovechable</h1>
+            </td>
+          </tr>
+          <!-- Cuerpo -->
+          <tr>
+            <td style="padding: 30px; color: #333333;">
+              <h2 style="font-size: 20px; color: #2e7d32;">¡Transformamos residuos en oportunidades!</h2>
+              <p>En <strong>REPROCAM</strong>, nos especializamos en la compra y gestión de materiales reciclables, contribuyendo a un futuro más sostenible. Somos tu aliado confiable para el manejo responsable de:</p>
+              <ul style="line-height: 1.6;">
+                <li>Archivo y cartón</li>
+                <li>Todo tipo de plásticos</li>
+                <li>Baterías</li>
+                <li>Canecas metálicas y plásticas</li>
+                <li>Otros materiales reciclables</li>
+              </ul>
+              <p>Nuestro compromiso es ofrecer soluciones personalizadas que optimicen la gestión de residuos de tu empresa, garantizando procesos eficientes y amigables con el medio ambiente.</p>
+              <p>¿Listo para dar el siguiente paso hacia la sostenibilidad? Conoce cómo podemos ayudarte a maximizar el valor de tus materiales reciclables.</p>
+            </td>
+          </tr>
+          <!-- Llamado a la acción -->
+          <tr>
+            <td style="padding: 0 30px 30px; text-align: center;">
+              <p style="font-size: 16px; color: #333333; margin-bottom: 20px;">Para acceder a nuestra propuesta personalizada, haz clic en el siguiente enlace:</p>
+              <a href="https://www.reprocam.com/propuesta" style="background-color: #2e7d32; color: #ffffff; padding: 12px 24px; text-decoration: none; border-radius: 5px; font-weight: bold; display: inline-block;">Ver Propuesta</a>
+            </td>
+          </tr>
+          <!-- Pie de página -->
+          <tr>
+            <td style="background-color: #f4f4f4; padding: 20px; text-align: center; color: #666666; font-size: 14px;">
+              <p>REPROCAM - Comprometidos con el reciclaje y el medio ambiente</p>
+              <p>Contáctanos: <a href="mailto:info@reprocam.com" style="color: #2e7d32;">info@reprocam.com</a> | +57 3337266836-3114407948</p>
+              <p>Visítanos en: <a href="https://www.reprocam.com" style="color: #2e7d32;">www.reprocam.com</a></p>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
